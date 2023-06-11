@@ -1,0 +1,629 @@
+work_year,experience_level,employment_type,job_title,salary,salary_currency,employee_residence,remote_ratio,remote_work_type,company_location,company_size,job_category
+2020,MI,FT,Data Scientist,70000,EUR,DE,0,On-site only,DE,L,Data Science
+2020,SE,FT,Machine Learning Scientist,260000,USD,JP,0,On-site only,JP,S,Machine Learning
+2020,SE,FT,Big Data Engineer,85000,GBP,GB,50,Hybrid,UK,M,Data Engineering
+2020,MI,FT,Product Data Analyst,20000,USD,HN,0,On-site only,HN,S,Data Analyst
+2020,SE,FT,Machine Learning Engineer,150000,USD,US,50,Hybrid,US,L,Machine Learning
+2020,EN,FT,Data Analyst,72000,USD,US,100,Fully remote,US,L,Data Analyst
+2020,SE,FT,Lead Data Scientist,190000,USD,US,100,Fully remote,US,S,Data Science
+2020,MI,FT,Data Scientist,11000000,HUF,HU,50,Hybrid,HU,L,Data Science
+2020,MI,FT,Business Data Analyst,135000,USD,US,100,Fully remote,US,L,Data Analyst
+2020,SE,FT,Lead Data Engineer,125000,USD,NZ,50,Hybrid,NZ,S,Data Engineering
+2020,EN,FT,Data Scientist,45000,EUR,FR,0,On-site only,FR,S,Data Science
+2020,MI,FT,Data Scientist,3000000,INR,IN,0,On-site only,IN,L,Data Science
+2020,EN,FT,Data Scientist,35000,EUR,FR,0,On-site only,FR,M,Data Science
+2020,MI,FT,Lead Data Analyst,87000,USD,US,100,Fully remote,US,L,Data Analyst
+2020,MI,FT,Data Analyst,85000,USD,US,100,Fully remote,US,L,Data Analyst
+2020,MI,FT,Data Analyst,8000,USD,PK,50,Hybrid,PK,L,Data Analyst
+2020,EN,FT,Data Engineer,4450000,JPY,JP,100,Fully remote,JP,S,Data Engineering
+2020,SE,FT,Big Data Engineer,100000,EUR,PL,100,Fully remote,UK,S,Data Engineering
+2020,EN,FT,Data Science Consultant,423000,INR,IN,50,Hybrid,IN,M,Data Science
+2020,MI,FT,Lead Data Engineer,,USD,PT,100,Fully remote,US,M,Data Engineering
+2020,MI,FT,Machine Learning Engineer,299000,CNY,CN,0,On-site only,CN,M,Machine Learning
+2020,MI,FT,Product Data Analyst,450000,INR,IN,100,Fully remote,IN,L,Data Analyst
+2020,SE,FT,Data Engineer,42000,EUR,GR,50,Hybrid,GR,L,Data Engineering
+2020,MI,FT,BI Data Analyst,98000,USD,US,0,On-site only,US,M,Data Analyst
+2020,MI,FT,Lead Data Scientist,115000,USD,AE,0,On-site only,AE,L,Data Science
+2020,EX,FT,Director of Data Science,325000,USD,US,100,Fully remote,US,L,Leadership (DS)
+2020,EN,FT,Research Scientist,42000,USD,NL,50,Hybrid,NL,L,Research
+2020,SE,FT,Data Engineer,720000,MXN,MX,0,On-site only,MX,S,Data Engineering
+2020,EN,CT,Business Data Analyst,100000,USD,US,100,Fully remote,US,L,Data Analyst
+2020,SE,FT,Machine Learning Manager,157000,CAD,CA,50,Hybrid,CA,L,Leadership (ML)
+2020,MI,FT,Data Engineering Manager,51999,EUR,DE,100,Fully remote,DE,S,Leadership (DE)
+2020,EN,FT,Big Data Engineer,70000,USD,US,100,Fully remote,US,L,Data Engineering
+2020,SE,FT,Data Scientist,60000,EUR,GR,100,Fully remote,US,L,Data Science
+2020,MI,FT,Research Scientist,450000,USD,US,0,On-site only,US,M,Research
+2020,MI,FT,Data Analyst,41000,EUR,FR,50,Hybrid,FR,L,Data Analyst
+2020,MI,FT,Data Engineer,65000,EUR,AT,50,Hybrid,AT,L,Data Engineering
+2020,MI,FT,Data Science Consultant,103000,USD,US,100,Fully remote,US,L,Data Science
+2020,EN,FT,Machine Learning Engineer,250000,USD,US,50,Hybrid,US,L,Machine Learning
+2020,EN,FT,Data Analyst,10000,USD,NG,100,Fully remote,NG,S,Data Analyst
+2020,EN,FT,Machine Learning Engineer,138000,USD,US,100,Fully remote,US,S,Machine Learning
+2020,MI,FT,Data Scientist,45760,USD,PH,100,Fully remote,US,,Data Science
+2020,EX,FT,Data Engineering Manager,70000,EUR,ES,50,Hybrid,ES,L,Leadership (DE)
+2020,MI,FT,Machine Learning Infrastructure Engineer,44000,EUR,PT,0,On-site only,PT,M,Machine Learning
+2020,MI,FT,Data Engineer,106000,USD,US,100,Fully remote,US,L,Data Engineering
+2020,MI,FT,Data Engineer,88000,GBP,GB,50,Hybrid,UK,,Data Engineering
+2020,EN,PT,ML Engineer,14000,EUR,DE,100,Fully remote,DE,S,Machine Learning
+2020,MI,FT,Data Scientist,60000,GBP,GB,100,,UK,S,Data Science
+2020,SE,FT,Data Engineer,188000,USD,US,100,Fully remote,US,L,Data Engineering
+2020,MI,FT,Data Scientist,105000,USD,US,100,Fully remote,US,,Data Science
+2020,MI,FT,Data Engineer,61500,EUR,FR,50,Hybrid,FR,L,Data Engineering
+2020,EN,FT,Data Analyst,450000,INR,IN,0,On-site only,IN,S,Data Analyst
+2020,EN,FT,Data Analyst,91000,USD,US,100,Fully remote,US,L,Data Analyst
+2020,EN,FT,AI Scientist,300000,DKK,DK,50,Hybrid,DK,S,Artificial Intelligence
+2020,EN,FT,Data Engineer,48000,EUR,PK,100,Fully remote,DE,L,Data Engineering
+2020,SE,FL,Computer Vision Engineer,60000,USD,RU,100,,US,S,Artificial Intelligence
+2020,SE,FT,Principal Data Scientist,130000,EUR,DE,100,Fully remote,DE,M,Data Science
+2020,MI,FT,Data Scientist,34000,EUR,ES,100,Fully remote,ES,M,Data Science
+2020,MI,FT,Data Scientist,118000,USD,US,100,Fully remote,US,M,Data Science
+2020,SE,FT,Data Scientist,120000,USD,US,50,Hybrid,US,L,Data Science
+2020,MI,FT,Data Scientist,138350,USD,US,100,Fully remote,US,M,Data Science
+2020,MI,FT,Data Engineer,110000,USD,US,100,Fully remote,US,L,Data Engineering
+2020,MI,FT,Data Engineer,130800,USD,ES,100,Fully remote,US,M,Data Engineering
+2020,EN,PT,Data Scientist,19000,EUR,IT,50,Hybrid,IT,S,Data Science
+2020,SE,FT,Data Scientist,412000,USD,US,100,Fully remote,US,L,Data Science
+2020,SE,FT,Machine Learning Engineer,40000,EUR,HR,100,Fully remote,HR,S,Machine Learning
+2020,EN,FT,Data Scientist,55000,EUR,DE,50,Hybrid,DE,S,Data Science
+2020,EN,FT,Data Scientist,43200,EUR,DE,0,On-site only,DE,S,Data Science
+2020,SE,FT,Data Science Manager,190200,USD,US,100,Fully remote,US,M,Leadership (DS)
+2020,EN,FT,Data Scientist,105000,USD,US,100,Fully remote,US,S,Data Science
+2020,SE,FT,Data Scientist,80000,EUR,AT,0,On-site only,AT,S,Data Science
+2020,MI,FT,Data Scientist,55000,EUR,FR,50,Hybrid,LU,S,Data Science
+2020,MI,FT,Data Scientist,37000,EUR,FR,50,Hybrid,FR,S,Data Science
+2021,EN,FT,Research Scientist,60000,GBP,GB,50,Hybrid,UK,L,Research
+2021,EX,FT,BI Data Analyst,150000,USD,IN,100,Fully remote,US,L,Data Analyst
+2021,EX,FT,Head of Data,235000,USD,US,100,Fully remote,US,L,Leadership (DS)
+2021,SE,FT,Data Scientist,45000,EUR,FR,50,Hybrid,FR,L,Data Science
+2021,MI,FT,BI Data Analyst,100000,USD,US,100,Fully remote,US,M,Data Analyst
+2021,MI,PT,3D Computer Vision Researcher,400000,INR,IN,50,Hybrid,IN,M,Artificial Intelligence
+2021,MI,CT,ML Engineer,270000,USD,US,100,Fully remote,US,L,Machine Learning
+2021,EN,FT,Data Analyst,80000,USD,US,100,Fully remote,US,M,Data Analyst
+2021,SE,FT,Data Analytics Engineer,67000,EUR,DE,100,Fully remote,DE,L,Data Engineering
+2021,MI,FT,Data Engineer,140000,USD,US,100,Fully remote,US,L,Data Engineering
+2021,MI,FT,Applied Data Scientist,68000,CAD,GB,50,Hybrid,CA,,Data Science
+2021,MI,FT,Machine Learning Engineer,40000,EUR,ES,100,Fully remote,ES,S,Machine Learning
+2021,EX,FT,Director of Data Science,130000,EUR,IT,100,Fully remote,PL,L,Leadership (DS)
+2021,MI,FT,Data Engineer,110000,PLN,PL,100,Fully remote,PL,L,Data Engineering
+2021,EN,FT,Data Analyst,50000,EUR,FR,50,Hybrid,FR,M,Data Analyst
+2021,MI,FT,Data Analytics Engineer,110000,USD,US,100,Fully remote,US,L,Data Engineering
+2021,SE,FT,Lead Data Analyst,170000,USD,US,100,Fully remote,US,L,Data Analyst
+2021,SE,FT,Data Analyst,80000,USD,BG,100,Fully remote,US,S,Data Analyst
+2021,SE,FT,Marketing Data Analyst,75000,EUR,GR,100,Fully remote,DK,L,Data Analyst
+2021,EN,FT,Data Science Consultant,65000,EUR,DE,100,Fully remote,DE,S,Data Science
+2021,MI,FT,Lead Data Analyst,1450000,INR,IN,100,Fully remote,IN,L,Data Analyst
+2021,SE,FT,Lead Data Engineer,276000,USD,US,0,On-site only,US,L,Data Engineering
+2021,EN,FT,Data Scientist,2200000,INR,IN,50,Hybrid,IN,L,Data Science
+2021,MI,FT,Cloud Data Engineer,120000,SGD,SG,50,Hybrid,SG,,Data Engineering
+2021,EN,PT,AI Scientist,12000,USD,BR,100,Fully remote,US,S,Artificial Intelligence
+2021,MI,FT,Financial Data Analyst,450000,USD,US,100,Fully remote,US,L,Data Analyst
+2021,EN,FT,Computer Vision Software Engineer,70000,USD,US,100,Fully remote,US,M,Artificial Intelligence
+2021,MI,FT,Computer Vision Software Engineer,81000,EUR,DE,100,Fully remote,US,S,Artificial Intelligence
+2021,MI,FT,Data Analyst,75000,USD,US,0,On-site only,US,L,Data Analyst
+2021,SE,FT,Data Engineer,150000,USD,US,100,Fully remote,US,L,Data Engineering
+2021,MI,FT,BI Data Analyst,11000000,HUF,HU,50,Hybrid,US,L,Data Analyst
+2021,MI,FT,Data Analyst,62000,USD,US,0,On-site only,US,L,Data Analyst
+2021,MI,FT,Data Scientist,73000,USD,US,0,On-site only,US,L,Data Science
+2021,MI,FT,Data Analyst,37456,GBP,GB,50,Hybrid,UK,L,Data Analyst
+2021,MI,FT,Research Scientist,235000,CAD,CA,100,Fully remote,CA,L,Research
+2021,SE,FT,Data Engineer,115000,USD,US,100,Fully remote,US,,Data Engineering
+2021,SE,FT,Data Engineer,150000,USD,US,100,Fully remote,US,M,Data Engineering
+2021,EN,FT,Data Engineer,2250000,INR,IN,100,Fully remote,IN,L,Data Engineering
+2021,SE,FT,Machine Learning Engineer,80000,EUR,DE,50,,DE,L,Machine Learning
+2021,SE,FT,Director of Data Engineering,82500,GBP,GB,100,Fully remote,UK,M,Leadership (DE)
+2021,SE,FT,Lead Data Engineer,75000,GBP,GB,100,Fully remote,UK,S,Data Engineering
+2021,EN,PT,AI Scientist,12000,USD,PK,100,Fully remote,US,M,Artificial Intelligence
+2021,MI,FT,Data Engineer,38400,EUR,NL,100,Fully remote,NL,L,Data Engineering
+2021,EN,FT,Machine Learning Scientist,225000,USD,US,100,Fully remote,US,L,Machine Learning
+2021,MI,FT,Data Scientist,50000,USD,NG,100,Fully remote,NG,L,Data Science
+2021,MI,FT,Data Science Engineer,34000,EUR,GR,100,Fully remote,GR,M,Data Engineering
+2021,EN,FT,Data Analyst,90000,USD,US,100,Fully remote,US,S,Data Analyst
+2021,MI,FT,Data Engineer,200000,USD,US,100,Fully remote,US,L,Data Engineering
+2021,MI,FT,Big Data Engineer,60000,USD,ES,50,Hybrid,RO,,Data Engineering
+2021,SE,FT,Principal Data Engineer,200000,USD,US,100,Fully remote,US,M,Data Engineering
+2021,EN,FT,Data Analyst,50000,USD,US,100,Fully remote,US,M,Data Analyst
+2021,EN,FT,Applied Data Scientist,80000,GBP,GB,0,On-site only,UK,L,Data Science
+2021,EN,PT,Data Analyst,8760,EUR,ES,50,Hybrid,ES,M,Data Analyst
+2021,MI,FT,Principal Data Scientist,151000,USD,US,100,Fully remote,US,L,Data Science
+2021,SE,FT,Machine Learning Scientist,120000,USD,US,50,Hybrid,US,S,Machine Learning
+2021,MI,FT,Data Scientist,700000,INR,IN,0,On-site only,IN,S,Data Science
+2021,EN,FT,Machine Learning Engineer,20000,USD,IN,100,Fully remote,IN,S,Machine Learning
+2021,SE,FT,Lead Data Scientist,3000000,INR,IN,50,Hybrid,IN,L,Data Science
+2021,EN,FT,Machine Learning Developer,100000,USD,IQ,50,Hybrid,IQ,S,Machine Learning
+2021,EN,FT,Data Scientist,42000,EUR,FR,50,Hybrid,FR,M,Data Science
+2021,MI,FT,Applied Machine Learning Scientist,38400,USD,VN,100,Fully remote,US,M,Machine Learning
+2021,SE,FT,Computer Vision Engineer,24000,USD,BR,100,Fully remote,BR,M,Artificial Intelligence
+2021,EN,FT,Data Scientist,100000,USD,US,0,On-site only,US,S,Data Science
+2021,MI,FT,Data Analyst,90000,USD,US,100,Fully remote,US,M,Data Analyst
+2021,MI,FT,ML Engineer,7000000,JPY,JP,50,Hybrid,JP,S,Machine Learning
+2021,MI,FT,ML Engineer,8500000,JPY,JP,50,Hybrid,JP,S,Machine Learning
+2021,SE,FT,Principal Data Scientist,220000,USD,US,0,On-site only,US,L,Data Science
+2021,EN,FT,Data Scientist,80000,USD,US,100,Fully remote,US,M,Data Science
+2021,MI,FT,Data Analyst,135000,USD,US,100,Fully remote,US,L,Data Analyst
+2021,SE,FT,Data Science Manager,240000,USD,US,0,On-site only,US,L,Leadership (DS)
+2021,SE,FT,Data Engineering Manager,150000,USD,US,0,On-site only,US,L,Leadership (DE)
+2021,MI,FT,Data Scientist,82500,USD,US,100,Fully remote,US,S,Data Science
+2021,MI,FT,Data Engineer,100000,USD,US,100,Fully remote,US,L,Data Engineering
+2021,SE,FT,Machine Learning Engineer,70000,EUR,BE,50,Hybrid,BE,M,Machine Learning
+2021,MI,FT,Research Scientist,53000,EUR,FR,50,Hybrid,FR,M,Research
+2021,MI,FT,Data Engineer,90000,USD,US,100,Fully remote,US,L,Data Engineering
+2021,SE,FT,Data Engineering Manager,153000,USD,US,100,Fully remote,US,L,Leadership (DE)
+2021,SE,FT,Cloud Data Engineer,160000,USD,BR,100,Fully remote,US,S,Data Engineering
+2021,SE,FT,Director of Data Science,168000,USD,JP,0,On-site only,JP,S,Leadership (DS)
+2021,MI,FT,Data Scientist,150000,USD,US,100,Fully remote,US,M,Data Science
+2021,MI,FT,Data Scientist,95000,CAD,CA,100,Fully remote,CA,L,Data Science
+2021,EN,FT,Data Scientist,13400,USD,UA,100,Fully remote,UA,,Data Science
+2021,SE,FT,Data Science Manager,144000,USD,US,100,Fully remote,US,L,Leadership (DS)
+2021,SE,FT,Data Science Engineer,159500,CAD,CA,50,Hybrid,CA,L,Data Engineering
+2021,MI,FT,Data Scientist,160000,SGD,SG,100,Fully remote,IL,M,Data Science
+2021,MI,FT,Applied Machine Learning Scientist,423000,USD,US,50,Hybrid,US,L,Machine Learning
+2021,SE,FT,Data Analytics Manager,120000,USD,US,100,Fully remote,US,M,Leadership (DA)
+2021,EN,FT,Machine Learning Engineer,125000,USD,US,100,Fully remote,US,S,Machine Learning
+2021,EX,FT,Head of Data,230000,USD,RU,50,Hybrid,RU,L,Leadership (DS)
+2021,EX,FT,Head of Data Science,85000,USD,RU,0,,RU,M,Leadership (DS)
+2021,MI,FT,Data Engineer,24000,EUR,MT,50,Hybrid,MT,L,Data Engineering
+2021,EN,FT,Data Science Consultant,54000,EUR,DE,50,Hybrid,DE,L,Data Science
+2021,EX,FT,Director of Data Science,110000,EUR,DE,50,Hybrid,DE,M,Leadership (DS)
+2021,SE,FT,Data Specialist,165000,USD,US,100,Fully remote,US,L,Data Analyst
+2021,EN,FT,Data Engineer,80000,USD,US,100,Fully remote,US,L,Data Engineering
+2021,EX,FT,Director of Data Science,250000,USD,US,0,On-site only,US,L,Leadership (DS)
+2021,EN,FT,BI Data Analyst,55000,USD,US,50,Hybrid,US,S,Data Analyst
+2021,MI,FT,Data Architect,150000,USD,US,100,Fully remote,US,L,Data Architect
+2021,MI,FT,Data Architect,170000,USD,US,100,Fully remote,US,L,Data Architect
+2021,MI,FT,Data Engineer,60000,GBP,GB,100,Fully remote,UK,L,Data Engineering
+2021,EN,FT,Data Analyst,60000,USD,US,100,Fully remote,US,S,Data Analyst
+2021,SE,FT,Principal Data Scientist,235000,USD,US,100,Fully remote,US,L,Data Science
+2021,SE,FT,Research Scientist,51400,EUR,PT,50,Hybrid,PT,L,Research
+2021,SE,FT,Data Engineering Manager,174000,USD,US,100,Fully remote,US,L,Leadership (DE)
+2021,MI,FT,Data Scientist,58000,MXN,MX,0,On-site only,MX,S,Data Science
+2021,EN,FT,,,USD,US,50,Hybrid,US,S,
+2021,MI,FT,,,INR,IN,100,Fully remote,US,S,
+2021,MI,FT,Big Data Engineer,1672000,INR,IN,0,On-site only,IN,L,Data Engineering
+2021,MI,FT,Data Scientist,76760,EUR,DE,50,Hybrid,DE,L,Data Science
+2021,MI,FT,Data Engineer,22000,EUR,RO,0,On-site only,US,L,Data Engineering
+2021,SE,FT,Finance Data Analyst,45000,GBP,GB,50,Hybrid,UK,L,Data Analyst
+2021,MI,FL,Machine Learning Scientist,12000,USD,PK,50,Hybrid,PK,M,Machine Learning
+2021,MI,FT,Data Engineer,4000,USD,IR,100,Fully remote,IR,M,Data Engineering
+2021,SE,FT,Data Analytics Engineer,50000,USD,VN,100,Fully remote,UK,M,Data Engineering
+2021,EX,FT,Data Science Consultant,59000,EUR,FR,100,Fully remote,ES,S,Data Science
+2021,SE,FT,Data Engineer,65000,EUR,RO,50,Hybrid,UK,S,Data Engineering
+2021,MI,FT,Machine Learning Engineer,74000,USD,JP,50,Hybrid,JP,S,Machine Learning
+2021,SE,FT,Data Science Manager,152000,USD,US,100,Fully remote,FR,L,Leadership (DS)
+2021,EN,FT,Machine Learning Engineer,21844,USD,CO,50,Hybrid,CO,M,Machine Learning
+2021,MI,FT,Big Data Engineer,18000,USD,MD,0,On-site only,MD,S,Data Engineering
+2021,SE,FT,Data Science Manager,174000,USD,US,100,Fully remote,US,L,Leadership (DS)
+2021,SE,FT,Research Scientist,120500,CAD,CA,50,Hybrid,CA,L,Research
+2021,MI,FT,Data Scientist,147000,USD,US,50,Hybrid,US,L,Data Science
+2021,EN,FT,BI Data Analyst,9272,USD,KE,100,Fully remote,KE,S,Data Analyst
+2021,SE,FT,Machine Learning Engineer,1799997,INR,IN,100,Fully remote,IN,L,Machine Learning
+2021,SE,FT,Data Science Manager,4000000,INR,IN,50,Hybrid,US,L,Leadership (DS)
+2021,EN,FT,Data Science Consultant,90000,USD,US,100,Fully remote,US,S,Data Science
+2021,MI,FT,Data Scientist,52000,EUR,DE,50,Hybrid,AT,M,Data Science
+2021,SE,FT,Machine Learning Infrastructure Engineer,195000,USD,US,100,,US,M,Machine Learning
+2021,MI,FT,Data Scientist,32000,EUR,ES,100,,ES,L,Data Science
+2021,SE,FT,Research Scientist,50000,USD,FR,100,,US,S,Research
+2021,MI,FT,Data Scientist,160000,USD,US,100,,US,L,Data Science
+2021,MI,FT,Data Scientist,69600,BRL,BR,0,,BR,S,Data Science
+2021,SE,FT,Machine Learning Engineer,200000,USD,US,100,,US,L,Machine Learning
+2021,SE,FT,Data Engineer,165000,USD,US,0,,US,M,Data Engineering
+2021,MI,FL,Data Engineer,20000,USD,IT,0,,US,L,Data Engineering
+2021,SE,FT,Data Analytics Manager,120000,USD,US,0,,US,L,Leadership (DA)
+2021,MI,FT,Machine Learning Engineer,21000,EUR,SI,50,,SI,L,Machine Learning
+2021,MI,FT,Research Scientist,48000,EUR,FR,50,,FR,S,Research
+2021,MI,FT,Data Engineer,48000,GBP,HK,50,Hybrid,UK,S,Data Engineering
+2021,EN,FT,Big Data Engineer,435000,INR,IN,0,On-site only,CH,L,Data Engineering
+2021,EN,FT,Machine Learning Engineer,21000,EUR,DE,50,Hybrid,DE,M,Machine Learning
+2021,SE,FT,Principal Data Engineer,185000,USD,US,100,Fully remote,US,L,Data Engineering
+2021,EN,PT,Computer Vision Engineer,180000,DKK,DK,50,Hybrid,DK,S,Artificial Intelligence
+2021,MI,FT,Data Scientist,76760,EUR,DE,50,Hybrid,DE,L,Data Science
+2021,MI,FT,Machine Learning Engineer,75000,EUR,BE,100,Fully remote,BE,M,Machine Learning
+2021,SE,FT,Data Analytics Manager,140000,USD,US,100,Fully remote,US,L,Leadership (DA)
+2021,MI,FT,Machine Learning Engineer,180000,PLN,PL,100,Fully remote,PL,L,Machine Learning
+2021,MI,FT,Data Scientist,85000,GBP,GB,50,Hybrid,UK,L,Data Science
+2021,MI,FT,Data Scientist,2500000,INR,IN,0,On-site only,IN,M,Data Science
+2021,MI,FT,Data Scientist,40900,GBP,GB,50,Hybrid,UK,L,Data Science
+2021,SE,FT,Machine Learning Scientist,225000,USD,US,100,Fully remote,CA,L,Machine Learning
+2021,EX,CT,Principal Data Scientist,416000,USD,US,100,Fully remote,US,S,Data Science
+2021,SE,FT,Data Scientist,110000,CAD,CA,100,Fully remote,CA,S,Data Science
+2021,MI,FT,Data Scientist,75000,EUR,DE,50,Hybrid,DE,L,Data Science
+2021,SE,FT,Data Scientist,135000,USD,US,0,On-site only,US,L,Data Science
+2021,SE,FT,Data Analyst,90000,CAD,CA,100,Fully remote,CA,M,Data Analyst
+2021,EN,FT,Big Data Engineer,1200000,INR,IN,100,Fully remote,IN,L,Data Engineering
+2021,SE,FT,ML Engineer,256000,USD,US,100,Fully remote,US,S,Machine Learning
+2021,SE,FT,Director of Data Engineering,200000,USD,US,100,Fully remote,US,L,Leadership (DE)
+2021,SE,FT,Data Analyst,200000,USD,US,100,Fully remote,US,L,Data Analyst
+2021,MI,FT,Data Architect,180000,USD,US,100,Fully remote,US,L,Data Architect
+2021,MI,FT,,,USD,US,0,On-site only,US,S,
+2021,MI,FT,,,CAD,CA,100,Fully remote,CA,M,
+2021,MI,FT,Data Scientist,39600,EUR,ES,100,Fully remote,ES,M,Data Science
+2021,EN,FT,Data Scientist,4000,USD,VN,0,On-site only,VN,M,Data Science
+2021,EN,FT,Data Engineer,1600000,INR,IN,50,Hybrid,IN,M,Data Engineering
+2021,SE,FT,Data Scientist,130000,CAD,CA,100,Fully remote,CA,L,Data Science
+2021,MI,FT,Data Analyst,80000,USD,US,100,Fully remote,US,L,Data Analyst
+2021,MI,FT,Data Engineer,110000,USD,US,100,Fully remote,US,L,Data Engineering
+2021,SE,FT,Data Scientist,165000,USD,US,100,Fully remote,US,L,Data Science
+2021,MI,FT,Data Engineer,52500,GBP,GB,50,Hybrid,UK,L,Data Engineering
+2021,EN,FT,Data Scientist,31000,EUR,FR,50,Hybrid,FR,L,Data Science
+2021,MI,FT,Data Engineer,108000,TRY,TR,0,On-site only,TR,M,Data Engineering
+2021,SE,FT,Data Engineer,70000,GBP,GB,50,Hybrid,UK,L,Data Engineering
+2021,SE,FT,Principal Data Analyst,170000,USD,US,100,Fully remote,US,M,Data Analyst
+2021,MI,FT,Data Scientist,115000,USD,US,50,Hybrid,US,L,Data Science
+2021,EN,FT,Data Scientist,90000,USD,US,100,Fully remote,US,S,Data Science
+2021,EX,FT,Principal Data Engineer,600000,USD,US,100,Fully remote,US,L,Data Engineering
+2021,EN,FT,Data Scientist,2100000,INR,IN,100,Fully remote,IN,M,Data Science
+2021,MI,FT,Data Analyst,93000,USD,US,100,Fully remote,US,L,Data Analyst
+2021,SE,FT,Big Data Architect,125000,CAD,CA,50,Hybrid,CA,M,Data Architect
+2021,MI,FT,Data Engineer,200000,USD,US,100,,US,L,Data Engineering
+2021,SE,FT,Principal Data Scientist,147000,EUR,DE,100,,DE,M,Data Science
+2021,SE,FT,Machine Learning Engineer,185000,USD,US,50,,US,L,Machine Learning
+2021,EX,FT,Director of Data Science,120000,EUR,DE,0,,DE,L,Leadership (DS)
+2021,MI,FT,Data Scientist,130000,USD,US,50,,US,L,Data Science
+2021,SE,FT,Data Analyst,54000,EUR,DE,50,,DE,L,Data Analyst
+2021,MI,FT,Data Scientist,1250000,INR,IN,100,Fully remote,IN,S,Data Science
+2021,SE,FT,Machine Learning Engineer,4900000,INR,IN,0,On-site only,IN,L,Machine Learning
+2021,MI,FT,Data Scientist,21600,EUR,RS,100,Fully remote,DE,S,Data Science
+2021,SE,FT,Lead Data Engineer,160000,USD,PR,50,Hybrid,US,S,Data Engineering
+2021,MI,FT,Data Engineer,93150,USD,US,0,On-site only,US,M,Data Engineering
+2021,MI,FT,Data Engineer,111775,USD,US,0,On-site only,US,M,Data Engineering
+2021,MI,FT,,,TRY,TR,100,Fully remote,TR,M,
+2021,EN,FT,,,EUR,DE,50,Hybrid,DE,M,
+2021,EN,FT,Data Engineer,72500,USD,US,100,Fully remote,US,L,Data Engineering
+2021,SE,FT,Computer Vision Engineer,102000,BRL,BR,0,On-site only,BR,M,Artificial Intelligence
+2021,EN,FT,Data Science Consultant,65000,EUR,DE,0,On-site only,DE,L,Data Science
+2021,EN,FT,Machine Learning Engineer,85000,USD,NL,100,Fully remote,DE,S,Machine Learning
+2021,SE,FT,Data Scientist,65720,EUR,FR,50,Hybrid,FR,M,Data Science
+2021,EN,FT,Data Scientist,100000,USD,US,100,Fully remote,US,M,Data Science
+2021,EN,FT,Data Scientist,58000,USD,US,50,Hybrid,US,L,Data Science
+2021,SE,FT,AI Scientist,55000,USD,ES,100,Fully remote,ES,L,Artificial Intelligence
+2021,SE,FT,Data Scientist,180000,TRY,TR,50,Hybrid,TR,L,Data Science
+2021,EN,FT,Business Data Analyst,50000,EUR,LU,100,Fully remote,LU,L,Data Analyst
+2021,MI,FT,Data Engineer,112000,USD,US,100,Fully remote,US,L,Data Engineering
+2021,EN,FT,Research Scientist,100000,USD,JE,0,On-site only,CN,L,Research
+2021,MI,PT,Data Engineer,59000,EUR,NL,100,Fully remote,NL,L,Data Engineering
+2021,SE,CT,Staff Data Scientist,105000,USD,US,100,Fully remote,US,M,Data Science
+2021,MI,FT,Research Scientist,69999,USD,CZ,50,Hybrid,CZ,L,Research
+2021,SE,FT,Data Science Manager,7000000,INR,IN,50,Hybrid,IN,L,Leadership (DS)
+2021,SE,FT,Head of Data,87000,EUR,SI,100,Fully remote,SI,L,Leadership (DS)
+2021,MI,FT,Data Scientist,109000,USD,US,50,Hybrid,US,L,Data Science
+2021,MI,FT,Machine Learning Engineer,43200,EUR,IT,50,Hybrid,IT,L,Machine Learning
+2022,SE,FT,Data Engineer,135000,USD,US,100,Fully remote,US,M,Data Engineering
+2022,SE,FT,Data Analyst,155000,USD,US,100,Fully remote,US,M,Data Analyst
+2022,SE,FT,Data Analyst,120600,USD,US,100,Fully remote,US,M,Data Analyst
+2022,MI,FT,Data Scientist,130000,USD,US,0,On-site only,US,M,Data Science
+2022,MI,FT,Data Scientist,90000,USD,US,0,On-site only,US,M,Data Science
+2022,MI,FT,Data Engineer,170000,USD,US,100,Fully remote,US,M,Data Engineering
+2022,MI,FT,Data Engineer,150000,USD,US,100,Fully remote,US,M,Data Engineering
+2022,SE,FT,Data Analyst,102100,USD,US,100,Fully remote,US,M,Data Analyst
+2022,SE,FT,Data Analyst,84900,USD,US,100,Fully remote,US,M,Data Analyst
+2022,SE,FT,Data Scientist,136620,USD,US,100,Fully remote,US,M,Data Science
+2022,SE,FT,Data Scientist,99360,USD,US,100,Fully remote,US,M,Data Science
+2022,SE,FT,Data Scientist,90000,GBP,GB,0,On-site only,UK,M,Data Science
+2022,SE,FT,Data Scientist,80000,GBP,GB,0,On-site only,UK,M,Data Science
+2022,SE,FT,Data Scientist,146000,USD,US,100,Fully remote,US,M,Data Science
+2022,SE,FT,Data Scientist,123000,USD,US,100,Fully remote,US,M,Data Science
+2022,EN,FT,Data Engineer,40000,GBP,GB,100,Fully remote,UK,M,Data Engineering
+2022,SE,FT,Data Analyst,99000,USD,US,0,On-site only,US,M,Data Analyst
+2022,SE,FT,Data Analyst,116000,USD,US,0,On-site only,US,M,Data Analyst
+2022,MI,FT,Data Analyst,106260,USD,US,0,On-site only,US,M,Data Analyst
+2022,MI,FT,Data Analyst,126500,USD,US,0,On-site only,US,M,Data Analyst
+2022,EX,FT,Data Engineer,242000,USD,US,100,Fully remote,US,M,Data Engineering
+2022,EX,FT,Data Engineer,200000,USD,US,100,Fully remote,US,M,Data Engineering
+2022,MI,FT,Data Scientist,50000,GBP,GB,0,,UK,M,Data Science
+2022,MI,FT,Data Scientist,30000,GBP,GB,0,,UK,M,Data Science
+2022,MI,FT,Data Engineer,60000,GBP,GB,0,,UK,M,Data Engineering
+2022,MI,FT,Data Engineer,40000,GBP,GB,0,,UK,M,Data Engineering
+2022,SE,FT,Data Scientist,165220,USD,US,100,Fully remote,US,M,Data Science
+2022,EN,FT,Data Engineer,35000,GBP,GB,100,Fully remote,UK,M,Data Engineering
+2022,SE,FT,Data Scientist,120160,USD,US,100,Fully remote,US,M,Data Science
+2022,SE,FT,Data Analyst,90320,USD,US,100,Fully remote,US,M,Data Analyst
+2022,SE,FT,Data Engineer,181940,USD,US,0,On-site only,US,M,Data Engineering
+2022,SE,FT,Data Engineer,132320,USD,US,0,On-site only,US,M,Data Engineering
+2022,SE,FT,Data Engineer,220110,USD,US,0,On-site only,US,M,Data Engineering
+2022,SE,FT,Data Engineer,160080,USD,US,0,On-site only,US,M,Data Engineering
+2022,SE,FT,Data Scientist,180000,USD,US,0,On-site only,US,L,Data Science
+2022,SE,FT,Data Scientist,120000,USD,US,0,On-site only,US,L,Data Science
+2022,SE,FT,Data Analyst,124190,USD,US,100,Fully remote,US,M,Data Analyst
+2022,EX,FT,Data Analyst,130000,USD,US,100,Fully remote,US,M,Data Analyst
+2022,EX,FT,Data Analyst,110000,USD,US,100,Fully remote,US,M,Data Analyst
+2022,SE,FT,Data Analyst,170000,USD,US,100,Fully remote,US,M,Data Analyst
+2022,MI,FT,Data Analyst,115500,USD,US,100,Fully remote,US,M,Data Analyst
+2022,SE,FT,Data Analyst,112900,USD,US,100,Fully remote,US,M,Data Analyst
+2022,SE,FT,Data Analyst,90320,USD,US,100,Fully remote,US,M,Data Analyst
+2022,SE,FT,Data Analyst,112900,USD,US,100,Fully remote,US,M,Data Analyst
+2022,SE,FT,Data Analyst,90320,USD,US,100,Fully remote,US,M,Data Analyst
+2022,SE,FT,Data Engineer,165400,USD,US,100,Fully remote,US,M,Data Engineering
+2022,SE,FT,Data Engineer,132320,USD,US,100,Fully remote,US,M,Data Engineering
+2022,MI,FT,Data Analyst,167000,USD,US,100,Fully remote,US,M,Data Analyst
+2022,SE,FT,Data Engineer,243900,USD,US,100,Fully remote,US,M,Data Engineering
+2022,SE,FT,Data Analyst,136600,USD,US,100,Fully remote,US,M,Data Analyst
+2022,SE,FT,Data Analyst,109280,USD,US,100,Fully remote,US,M,Data Analyst
+2022,SE,FT,Data Engineer,128875,USD,US,100,Fully remote,US,M,Data Engineering
+2022,SE,FT,Data Engineer,93700,USD,US,100,Fully remote,US,M,Data Engineering
+2022,EX,FT,Head of Data Science,224000,USD,US,100,Fully remote,US,M,Leadership (DS)
+2022,EX,FT,Head of Data Science,167875,USD,US,100,Fully remote,US,M,Leadership (DS)
+2022,EX,FT,Analytics Engineer,175000,USD,US,100,Fully remote,US,M,Data Engineering
+2022,SE,FT,Data Engineer,156600,USD,US,100,Fully remote,US,M,Data Engineering
+2022,SE,FT,Data Engineer,108800,USD,US,0,On-site only,US,M,Data Engineering
+2022,SE,FT,Data Scientist,95550,USD,US,0,On-site only,US,M,Data Science
+2022,SE,FT,Data Engineer,113000,USD,US,0,On-site only,US,L,Data Engineering
+2022,SE,FT,Data Analyst,135000,USD,US,100,Fully remote,US,M,Data Analyst
+2022,SE,FT,Data Science Manager,161342,USD,US,100,Fully remote,US,M,Leadership (DS)
+2022,SE,FT,Data Science Manager,137141,USD,US,100,Fully remote,US,M,Leadership (DS)
+2022,SE,FT,Data Scientist,167000,USD,US,100,Fully remote,US,M,Data Science
+2022,SE,FT,Data Scientist,123000,USD,US,100,Fully remote,US,M,Data Science
+2022,SE,FT,Data Engineer,60000,GBP,GB,0,On-site only,UK,M,Data Engineering
+2022,SE,FT,Data Engineer,50000,GBP,GB,0,On-site only,UK,M,Data Engineering
+2022,SE,FT,Data Scientist,150000,USD,US,0,On-site only,US,M,Data Science
+2022,SE,FT,Data Scientist,211500,USD,US,100,Fully remote,US,M,Data Science
+2022,SE,FT,Data Architect,192400,USD,CA,100,Fully remote,CA,M,Data Architect
+2022,SE,FT,Data Architect,90700,USD,CA,100,Fully remote,CA,M,Data Architect
+2022,SE,FT,Data Analyst,130000,USD,CA,100,Fully remote,CA,M,Data Analyst
+2022,SE,FT,Data Analyst,61300,USD,CA,100,Fully remote,CA,M,Data Analyst
+2022,SE,FT,Data Analyst,130000,USD,CA,100,Fully remote,CA,M,Data Analyst
+2022,SE,FT,Data Analyst,61300,USD,CA,100,Fully remote,CA,M,Data Analyst
+2022,SE,FT,Data Engineer,160000,USD,US,0,On-site only,US,L,Data Engineering
+2022,SE,FT,Data Scientist,138600,USD,US,100,Fully remote,US,M,Data Science
+2022,SE,FT,Data Engineer,136000,USD,US,0,On-site only,US,M,Data Engineering
+2022,MI,FT,Data Analyst,58000,USD,US,0,On-site only,US,S,Data Analyst
+2022,EX,FT,Analytics Engineer,135000,USD,US,100,Fully remote,US,M,Data Engineering
+2022,SE,FT,Data Scientist,170000,USD,US,100,Fully remote,US,M,Data Science
+2022,SE,FT,Data Scientist,123000,USD,US,100,Fully remote,US,M,Data Science
+2022,SE,FT,Machine Learning Engineer,189650,USD,US,0,On-site only,US,M,Machine Learning
+2022,SE,FT,Machine Learning Engineer,164996,USD,US,0,On-site only,US,M,Machine Learning
+2022,MI,FT,ETL Developer,50000,EUR,GR,0,On-site only,GR,M,Data Engineering
+2022,MI,FT,ETL Developer,50000,EUR,GR,0,On-site only,GR,M,Data Engineering
+2022,EX,FT,Lead Data Engineer,150000,CAD,CA,100,Fully remote,CA,S,Data Engineering
+2022,SE,FT,Data Analyst,132000,USD,US,0,On-site only,US,M,Data Analyst
+2022,SE,FT,Data Engineer,165400,USD,US,100,Fully remote,US,M,Data Engineering
+2022,SE,FT,Data Architect,208775,USD,US,100,Fully remote,US,M,Data Architect
+2022,SE,FT,Data Architect,147800,USD,US,100,Fully remote,US,M,Data Architect
+2022,SE,FT,Data Engineer,136994,USD,US,100,Fully remote,US,M,Data Engineering
+2022,SE,FT,Data Engineer,101570,USD,US,100,Fully remote,US,M,Data Engineering
+2022,SE,FT,,,USD,US,100,Fully remote,US,M,
+2022,SE,FT,,,USD,US,100,Fully remote,US,M,
+2022,EX,FT,Head of Machine Learning,6000000,INR,IN,50,Hybrid,IN,L,Leadership (ML)
+2022,SE,FT,Data Engineer,132320,USD,US,100,Fully remote,US,M,Data Engineering
+2022,EN,FT,Machine Learning Engineer,28500,GBP,GB,100,Fully remote,UK,L,Machine Learning
+2022,SE,FT,Data Analyst,164000,USD,US,0,On-site only,US,M,Data Analyst
+2022,SE,FT,Data Engineer,155000,USD,US,100,Fully remote,US,M,Data Engineering
+2022,MI,FT,Machine Learning Engineer,95000,GBP,GB,0,On-site only,UK,M,Machine Learning
+2022,MI,FT,Machine Learning Engineer,75000,GBP,GB,0,On-site only,UK,M,Machine Learning
+2022,MI,FT,AI Scientist,120000,USD,US,0,On-site only,US,M,Artificial Intelligence
+2022,SE,FT,Data Analyst,112900,USD,US,100,Fully remote,US,M,Data Analyst
+2022,SE,FT,Data Analyst,90320,USD,US,100,Fully remote,US,M,Data Analyst
+2022,SE,FT,Data Analytics Manager,145000,USD,US,100,Fully remote,US,M,Leadership (DA)
+2022,SE,FT,Data Analytics Manager,105400,USD,US,100,Fully remote,US,M,Leadership (DA)
+2022,MI,FT,Machine Learning Engineer,80000,EUR,FR,100,Fully remote,DE,M,Machine Learning
+2022,MI,FT,Data Engineer,90000,GBP,GB,0,On-site only,UK,M,Data Engineering
+2022,SE,FT,Data Scientist,215300,USD,US,100,Fully remote,US,L,Data Science
+2022,SE,FT,Data Scientist,158200,USD,US,100,Fully remote,US,L,Data Science
+2022,SE,FT,Data Engineer,209100,USD,US,100,Fully remote,US,L,Data Engineering
+2022,SE,FT,Data Engineer,154600,USD,US,100,Fully remote,US,L,Data Engineering
+2022,SE,FT,Data Analyst,115934,USD,US,0,On-site only,US,M,Data Analyst
+2022,SE,FT,Data Analyst,81666,USD,US,0,On-site only,US,M,Data Analyst
+2022,SE,FT,Data Engineer,175000,USD,US,100,Fully remote,US,M,Data Engineering
+2022,MI,FT,Data Engineer,75000,GBP,GB,0,On-site only,UK,M,Data Engineering
+2022,MI,FT,Data Analyst,58000,USD,US,0,On-site only,US,S,Data Analyst
+2022,SE,FT,Data Engineer,183600,USD,US,100,Fully remote,US,L,Data Engineering
+2022,MI,FT,Data Analyst,40000,GBP,GB,100,Fully remote,UK,M,Data Analyst
+2022,SE,FT,Data Scientist,180000,USD,US,100,Fully remote,US,M,Data Science
+2022,MI,FT,Data Scientist,55000,GBP,GB,0,On-site only,UK,M,Data Science
+2022,MI,FT,Data Scientist,35000,GBP,GB,0,On-site only,UK,M,Data Science
+2022,MI,FT,Data Engineer,60000,EUR,GR,100,Fully remote,GR,M,Data Engineering
+2022,MI,FT,Data Engineer,45000,EUR,GR,100,Fully remote,GR,M,Data Engineering
+2022,MI,FT,Data Engineer,60000,GBP,GB,100,Fully remote,UK,M,Data Engineering
+2022,MI,FT,Data Engineer,45000,GBP,GB,100,Fully remote,UK,M,Data Engineering
+2022,SE,FT,Data Scientist,260000,USD,US,100,Fully remote,US,M,Data Science
+2022,SE,FT,Data Science Engineer,60000,USD,AR,100,Fully remote,MX,L,Data Engineering
+2022,MI,FT,Data Engineer,63900,USD,US,0,On-site only,US,M,Data Engineering
+2022,MI,FT,Machine Learning Scientist,160000,USD,US,100,Fully remote,US,L,Machine Learning
+2022,MI,FT,Machine Learning Scientist,112300,USD,US,100,Fully remote,US,L,Machine Learning
+2022,MI,FT,Data Science Manager,241000,USD,US,100,Fully remote,US,M,Leadership (DS)
+2022,MI,FT,Data Science Manager,159000,USD,US,100,Fully remote,US,M,Leadership (DS)
+2022,SE,FT,Data Scientist,180000,USD,US,0,On-site only,US,M,Data Science
+2022,SE,FT,Data Scientist,80000,USD,US,0,On-site only,US,M,Data Science
+2022,MI,FT,Data Engineer,82900,USD,US,0,On-site only,US,M,Data Engineering
+2022,SE,FT,Data Engineer,100800,USD,US,100,Fully remote,US,L,Data Engineering
+2022,MI,FT,Data Engineer,45000,EUR,ES,100,Fully remote,ES,M,Data Engineering
+2022,SE,FT,Data Scientist,140400,USD,US,0,On-site only,US,L,Data Science
+2022,MI,FT,,,,GB,100,Fully remote,UK,M,
+2022,MI,FT,,,,ES,100,Fully remote,ES,M,
+2022,MI,FT,Data Analyst,30000,EUR,ES,100,Fully remote,ES,M,Data Analyst
+2022,MI,FT,Data Engineer,80000,EUR,ES,100,Fully remote,ES,M,Data Engineering
+2022,MI,FT,Data Engineer,70000,EUR,ES,100,Fully remote,ES,M,Data Engineering
+2022,MI,FT,Data Engineer,80000,GBP,GB,100,Fully remote,UK,M,Data Engineering
+2022,MI,FT,Data Engineer,70000,GBP,GB,100,Fully remote,UK,M,Data Engineering
+2022,MI,FT,Data Engineer,60000,EUR,ES,100,Fully remote,ES,M,Data Engineering
+2022,MI,FT,Data Engineer,80000,EUR,GR,100,Fully remote,GR,M,Data Engineering
+2022,SE,FT,Machine Learning Engineer,189650,USD,US,0,On-site only,US,M,Machine Learning
+2022,SE,FT,Machine Learning Engineer,164996,USD,US,0,On-site only,US,M,Machine Learning
+2022,MI,FT,Data Analyst,40000,EUR,GR,100,Fully remote,GR,M,Data Analyst
+2022,MI,FT,Data Analyst,30000,EUR,GR,100,Fully remote,GR,M,Data Analyst
+2022,MI,FT,Data Engineer,75000,GBP,GB,100,Fully remote,UK,M,Data Engineering
+2022,MI,FT,Data Engineer,60000,GBP,GB,100,Fully remote,UK,M,Data Engineering
+2022,SE,FT,,,USD,US,0,On-site only,US,L,
+2022,MI,FT,,,EUR,GR,100,Fully remote,GR,M,
+2022,SE,FT,,,USD,US,100,Fully remote,US,L,
+2022,SE,FT,Data Engineer,154600,USD,US,100,Fully remote,US,L,Data Engineering
+2022,SE,FT,Data Engineer,180000,USD,US,100,Fully remote,US,M,Data Engineering
+2022,EN,FT,ML Engineer,20000,EUR,PT,100,Fully remote,PT,L,Machine Learning
+2022,SE,FT,Data Engineer,80000,USD,US,100,Fully remote,US,M,Data Engineering
+2022,MI,FT,Machine Learning Developer,100000,CAD,CA,100,Fully remote,CA,M,Machine Learning
+2022,EX,FT,Director of Data Science,250000,CAD,CA,50,Hybrid,CA,L,Leadership (DS)
+2022,MI,FT,Machine Learning Engineer,120000,USD,US,100,Fully remote,US,S,Machine Learning
+2022,EN,FT,Computer Vision Engineer,125000,USD,US,0,On-site only,US,M,Artificial Intelligence
+2022,MI,FT,NLP Engineer,240000,CNY,US,50,Hybrid,US,L,Machine Learning
+2022,SE,FT,Data Engineer,105000,USD,US,100,Fully remote,US,M,Data Engineering
+2022,SE,FT,Lead Machine Learning Engineer,80000,EUR,DE,0,On-site only,DE,M,Machine Learning
+2022,MI,FT,Business Data Analyst,1400000,INR,IN,100,Fully remote,IN,M,Data Analyst
+2022,MI,FT,Data Scientist,2400000,INR,IN,100,Fully remote,IN,L,Data Science
+2022,MI,FT,Machine Learning Infrastructure Engineer,53000,EUR,PT,50,Hybrid,PT,L,Machine Learning
+2022,EN,FT,Financial Data Analyst,100000,USD,US,50,Hybrid,US,L,Data Analyst
+2022,MI,PT,Data Engineer,50000,EUR,DE,50,Hybrid,DE,L,Data Engineering
+2022,EN,FT,Data Scientist,1400000,INR,IN,100,Fully remote,IN,M,Data Science
+2022,SE,FT,Principal Data Scientist,148000,EUR,DE,100,Fully remote,DE,M,Data Science
+2022,EN,FT,Data Engineer,120000,USD,US,100,Fully remote,US,M,Data Engineering
+2022,SE,FT,Research Scientist,144000,USD,US,50,Hybrid,US,L,Research
+2022,SE,FT,Data Scientist,104890,USD,US,100,Fully remote,US,M,Data Science
+2022,SE,FT,Data Engineer,100000,USD,US,100,Fully remote,US,M,Data Engineering
+2022,SE,FT,Data Scientist,140000,USD,US,100,Fully remote,US,M,Data Science
+2022,MI,FT,Data Analyst,135000,USD,US,100,Fully remote,US,M,Data Analyst
+2022,MI,FT,Data Analyst,50000,USD,US,100,Fully remote,US,M,Data Analyst
+2022,SE,FT,Data Scientist,220000,USD,US,100,Fully remote,US,M,Data Science
+2022,SE,FT,Data Scientist,140000,USD,US,100,Fully remote,US,M,Data Science
+2022,MI,FT,Data Scientist,140000,GBP,GB,0,On-site only,UK,M,Data Science
+2022,MI,FT,Data Scientist,70000,GBP,GB,0,On-site only,UK,M,Data Science
+2022,SE,FT,Data Scientist,185100,USD,US,100,Fully remote,US,M,Data Science
+2022,SE,FT,Machine Learning Engineer,220000,USD,US,100,Fully remote,US,M,Machine Learning
+2022,MI,FT,Data Scientist,200000,USD,US,100,Fully remote,US,M,Data Science
+2022,MI,FT,Data Scientist,120000,USD,US,100,Fully remote,US,M,Data Science
+2022,SE,FT,Machine Learning Engineer,120000,USD,AE,100,Fully remote,AE,S,Machine Learning
+2022,SE,FT,Machine Learning Engineer,65000,USD,AE,100,,AE,S,Machine Learning
+2022,EX,FT,Data Engineer,324000,USD,US,100,,US,M,Data Engineering
+2022,EX,FT,Data Engineer,216000,USD,US,100,,US,M,Data Engineering
+2022,SE,FT,Data Engineer,210000,USD,US,100,,US,M,Data Engineering
+2022,SE,FT,Machine Learning Engineer,120000,USD,US,100,,US,M,Machine Learning
+2022,SE,FT,Data Scientist,230000,USD,US,100,,US,M,Data Science
+2022,EN,PT,Data Scientist,100000,USD,DZ,50,Hybrid,DZ,M,Data Science
+2022,MI,FL,Data Scientist,100000,USD,CA,100,Fully remote,US,M,Data Science
+2022,EN,CT,Applied Machine Learning Scientist,29000,EUR,TN,100,Fully remote,CZ,M,Machine Learning
+2022,SE,FT,Head of Data,200000,USD,MY,100,Fully remote,US,M,Leadership (DS)
+2022,MI,FT,Principal Data Analyst,75000,USD,CA,100,Fully remote,CA,S,Data Analyst
+2022,MI,FT,Data Scientist,150000,PLN,PL,100,Fully remote,PL,L,Data Science
+2022,SE,FT,Machine Learning Developer,100000,CAD,CA,100,Fully remote,CA,M,Machine Learning
+2022,SE,FT,Data Scientist,100000,USD,BR,100,Fully remote,US,M,Data Science
+2022,MI,FT,Machine Learning Scientist,153000,USD,US,50,Hybrid,US,M,Machine Learning
+2022,EN,FT,Data Engineer,52800,EUR,PK,100,Fully remote,DE,M,Data Engineering
+2022,SE,FT,Data Scientist,165000,USD,US,100,Fully remote,US,M,Data Science
+2022,SE,FT,Research Scientist,85000,EUR,FR,50,Hybrid,FR,L,Research
+2022,EN,FT,Data Scientist,66500,CAD,CA,100,Fully remote,CA,L,Data Science
+2022,SE,FT,Machine Learning Engineer,57000,EUR,NL,100,Fully remote,NL,L,Machine Learning
+2022,MI,FT,Head of Data,30000,EUR,EE,100,Fully remote,EE,S,Leadership (DS)
+2022,EN,FT,Data Scientist,40000,USD,JP,100,Fully remote,MY,L,Data Science
+2022,MI,FT,Machine Learning Engineer,121000,AUD,AU,100,Fully remote,AU,L,Machine Learning
+2022,SE,FT,Data Engineer,115000,USD,US,100,Fully remote,US,M,Data Engineering
+2022,EN,FT,Data Scientist,120000,AUD,AU,50,Hybrid,AU,M,Data Science
+2022,MI,FT,Applied Machine Learning Scientist,75000,USD,BO,100,Fully remote,US,L,Machine Learning
+2022,MI,FT,Research Scientist,59000,EUR,AT,0,On-site only,AT,L,Research
+2022,EN,FT,Research Scientist,120000,USD,US,100,Fully remote,US,L,Research
+2022,MI,FT,Applied Data Scientist,157000,USD,US,100,Fully remote,US,L,Data Science
+2022,EN,FT,Computer Vision Software Engineer,150000,USD,AU,100,Fully remote,AU,S,Artificial Intelligence
+2022,MI,FT,Business Data Analyst,90000,CAD,CA,50,Hybrid,CA,L,Data Analyst
+2022,EN,FT,Data Engineer,65000,USD,US,100,Fully remote,US,S,Data Engineering
+2022,SE,FT,Machine Learning Engineer,65000,EUR,IE,100,Fully remote,IE,S,Machine Learning
+2022,EN,FT,Data Analytics Engineer,20000,USD,PK,0,On-site only,PK,M,Data Engineering
+2022,MI,FT,Data Scientist,48000,USD,RU,100,Fully remote,US,S,Data Science
+2022,SE,FT,Data Science Manager,152500,USD,US,100,Fully remote,US,M,Leadership (DS)
+2022,MI,FT,Data Engineer,62000,EUR,FR,100,Fully remote,FR,M,Data Engineering
+2022,MI,FT,Data Scientist,115000,CHF,CH,0,On-site only,CH,L,Data Science
+2022,SE,FT,Applied Data Scientist,380000,USD,US,100,Fully remote,US,L,Data Science
+2022,MI,FT,Data Scientist,88000,CAD,CA,100,Fully remote,CA,M,Data Science
+2022,EN,FT,Computer Vision Engineer,10000,USD,PT,100,Fully remote,LU,M,Artificial Intelligence
+2022,MI,FT,Data Analyst,20000,USD,GR,100,Fully remote,GR,S,Data Analyst
+2022,SE,FT,Data Analytics Lead,405000,USD,US,100,Fully remote,US,L,Data Analyst
+2022,MI,FT,Data Scientist,135000,USD,US,100,Fully remote,US,L,Data Science
+2022,SE,FT,Applied Data Scientist,177000,USD,US,100,Fully remote,US,L,Data Science
+2022,MI,FT,Data Scientist,78000,USD,US,100,Fully remote,US,M,Data Science
+2022,SE,FT,Data Analyst,135000,USD,US,100,Fully remote,US,M,Data Analyst
+2022,SE,FT,Data Analyst,100000,USD,US,100,Fully remote,US,M,Data Analyst
+2022,SE,FT,Data Analyst,90320,USD,US,100,Fully remote,US,M,Data Analyst
+2022,MI,FT,Data Analyst,85000,USD,CA,0,On-site only,CA,M,Data Analyst
+2022,MI,FT,Data Analyst,75000,USD,CA,0,On-site only,CA,M,Data Analyst
+2022,SE,FT,Machine Learning Engineer,214000,USD,US,100,Fully remote,US,M,Machine Learning
+2022,SE,FT,Machine Learning Engineer,192600,USD,US,100,Fully remote,US,M,Machine Learning
+2022,SE,FT,Data Architect,266400,USD,US,100,Fully remote,US,M,Data Architect
+2022,SE,FT,Data Architect,213120,USD,US,100,Fully remote,US,M,Data Architect
+2022,SE,FT,Data Analyst,112900,USD,US,100,Fully remote,US,M,Data Analyst
+2022,SE,FT,Data Engineer,155000,USD,US,100,Fully remote,US,M,Data Engineering
+2022,MI,FT,Data Scientist,141300,USD,US,0,On-site only,US,M,Data Science
+2022,MI,FT,Data Scientist,102100,USD,US,0,On-site only,US,M,Data Science
+2022,SE,FT,Data Analyst,115934,USD,US,100,Fully remote,US,M,Data Analyst
+2022,SE,FT,Data Analyst,81666,USD,US,100,,US,M,Data Analyst
+2022,MI,FT,Data Engineer,206699,USD,US,0,,US,M,Data Engineering
+2022,MI,FT,Data Engineer,99100,USD,US,0,,US,M,Data Engineering
+2022,SE,FT,Data Engineer,130000,USD,US,100,,US,M,Data Engineering
+2022,SE,FT,Data Engineer,115000,USD,US,100,,US,M,Data Engineering
+2022,SE,FT,Data Engineer,110500,USD,US,100,Fully remote,US,M,Data Engineering
+2022,SE,FT,Data Engineer,130000,USD,US,100,Fully remote,US,M,Data Engineering
+2022,SE,FT,Data Analyst,99050,USD,US,100,Fully remote,US,M,Data Analyst
+2022,SE,FT,Data Engineer,160000,USD,US,100,Fully remote,US,M,Data Engineering
+2022,SE,FT,Data Scientist,205300,USD,US,0,On-site only,US,L,Data Science
+2022,SE,FT,Data Scientist,140400,USD,US,0,On-site only,US,L,Data Science
+2022,SE,FT,Data Scientist,176000,USD,US,100,Fully remote,US,M,Data Science
+2022,SE,FT,Data Scientist,144000,USD,US,100,Fully remote,US,M,Data Science
+2022,SE,FT,Data Engineer,200100,USD,US,100,Fully remote,US,M,Data Engineering
+2022,SE,FT,Data Engineer,160000,USD,US,100,Fully remote,US,M,Data Engineering
+2022,SE,FT,Data Engineer,145000,USD,US,100,Fully remote,US,M,Data Engineering
+2022,SE,FT,Data Engineer,70500,USD,US,0,On-site only,US,M,Data Engineering
+2022,SE,FT,Data Scientist,205300,USD,US,0,On-site only,US,M,Data Science
+2022,SE,FT,Data Scientist,140400,USD,US,0,On-site only,US,M,Data Science
+2022,SE,FT,Analytics Engineer,205300,USD,US,0,On-site only,US,M,Data Engineering
+2022,SE,FT,Analytics Engineer,184700,USD,US,0,On-site only,US,M,Data Engineering
+2022,SE,FT,Data Engineer,175100,USD,US,100,Fully remote,US,M,Data Engineering
+2022,SE,FT,Data Engineer,140250,USD,US,100,Fully remote,US,M,Data Engineering
+2022,SE,FT,Data Analyst,116150,USD,US,100,Fully remote,US,M,Data Analyst
+2022,SE,FT,Data Engineer,54000,USD,US,0,On-site only,US,M,Data Engineering
+2022,SE,FT,Data Analyst,170000,USD,US,100,Fully remote,US,M,Data Analyst
+2022,MI,FT,Data Analyst,50000,GBP,GB,0,On-site only,UK,M,Data Analyst
+2022,SE,FT,Data Analyst,80000,USD,US,100,Fully remote,US,M,Data Analyst
+2022,SE,FT,Data Scientist,140000,USD,US,100,Fully remote,US,M,Data Science
+2022,SE,FT,Data Scientist,210000,USD,US,100,Fully remote,US,M,Data Science
+2022,SE,FT,Data Scientist,140000,USD,US,100,Fully remote,US,M,Data Science
+2022,SE,FT,Data Analyst,100000,USD,US,100,Fully remote,US,M,Data Analyst
+2022,SE,FT,Data Analyst,69000,USD,US,100,Fully remote,US,M,Data Analyst
+2022,SE,FT,Data Scientist,210000,USD,US,100,Fully remote,US,M,Data Science
+2022,SE,FT,Data Scientist,140000,USD,US,100,Fully remote,US,M,Data Science
+2022,SE,FT,Data Scientist,210000,USD,US,100,Fully remote,US,M,Data Science
+2022,SE,FT,Data Analyst,150075,USD,US,100,Fully remote,US,M,Data Analyst
+2022,SE,FT,Data Engineer,100000,USD,US,100,Fully remote,US,M,Data Engineering
+2022,SE,FT,Data Engineer,25000,USD,US,100,Fully remote,US,M,Data Engineering
+2022,SE,FT,Data Analyst,126500,USD,US,100,Fully remote,US,M,Data Analyst
+2022,SE,FT,Data Analyst,106260,USD,US,100,Fully remote,US,M,Data Analyst
+2022,SE,FT,Data Engineer,220110,USD,US,100,Fully remote,US,M,Data Engineering
+2022,SE,FT,Data Engineer,160080,USD,US,100,Fully remote,US,M,Data Engineering
+2022,SE,FT,Data Analyst,105000,USD,US,100,Fully remote,US,M,Data Analyst
+2022,SE,FT,Data Analyst,110925,USD,US,100,Fully remote,US,M,Data Analyst
+2022,MI,FT,Data Analyst,35000,GBP,GB,0,On-site only,UK,M,Data Analyst
+2022,SE,FT,Data Scientist,140000,USD,US,100,Fully remote,US,M,Data Science
+2022,SE,FT,Data Analyst,99000,USD,US,0,On-site only,US,M,Data Analyst
+2022,SE,FT,Data Analyst,60000,USD,US,100,Fully remote,US,M,Data Analyst
+2022,SE,FT,Data Architect,192564,USD,US,100,Fully remote,US,M,Data Architect
+2022,SE,FT,Data Architect,144854,USD,US,100,Fully remote,US,M,Data Architect
+2022,SE,FT,Data Scientist,230000,USD,US,100,Fully remote,US,M,Data Science
+2022,SE,FT,Data Scientist,150000,USD,US,100,Fully remote,US,M,Data Science
+2022,SE,FT,Data Analytics Manager,150260,USD,US,100,Fully remote,US,M,Leadership (DA)
+2022,SE,FT,Data Analytics Manager,109280,USD,US,100,Fully remote,US,M,Leadership (DA)
+2022,SE,FT,Data Scientist,210000,USD,US,100,Fully remote,US,M,Data Science
+2022,SE,FT,Data Analyst,170000,USD,US,100,Fully remote,US,M,Data Analyst
+2022,MI,FT,Data Scientist,160000,USD,US,100,Fully remote,US,M,Data Science
+2022,MI,FT,Data Scientist,130000,USD,US,100,Fully remote,US,M,Data Science
+2022,EN,FT,Data Analyst,67000,USD,CA,0,On-site only,CA,M,Data Analyst
+2022,EN,FT,Data Analyst,52000,USD,CA,0,On-site only,CA,M,Data Analyst
+2022,SE,FT,Data Engineer,154000,USD,US,100,Fully remote,US,M,Data Engineering
+2022,SE,FT,Data Engineer,126000,USD,US,100,Fully remote,US,M,Data Engineering
+2022,SE,FT,Data Analyst,129000,USD,US,0,On-site only,US,M,Data Analyst
+2022,SE,FT,Data Analyst,150000,USD,US,100,Fully remote,US,M,Data Analyst
+2022,MI,FT,AI Scientist,200000,USD,IN,100,Fully remote,US,L,Artificial Intelligence
+2022,SE,FT,Data Analytics Manager,150260,USD,US,100,Fully remote,US,M,Leadership (DA)
+2022,SE,FT,Data Analytics Manager,109280,USD,US,100,Fully remote,US,M,Leadership (DA)
+2022,MI,FT,Data Scientist,130000,USD,US,100,Fully remote,US,M,Data Science
+2022,EN,FT,Data Analyst,67000,USD,CA,0,On-site only,CA,M,Data Analyst
+2022,SE,FT,Data Analyst,112900,USD,US,100,Fully remote,US,M,Data Analyst
+2022,SE,FT,Data Engineer,155000,USD,US,100,Fully remote,US,M,Data Engineering
+2022,MI,FT,Data Scientist,141300,USD,US,0,On-site only,US,M,Data Science
+2022,MI,FT,Data Scientist,102100,USD,US,0,On-site only,US,M,Data Science
+2022,SE,FT,Data Analyst,115934,USD,US,100,Fully remote,US,M,Data Analyst
+2022,SE,FT,Data Analyst,81666,USD,US,100,,US,M,Data Analyst
+2022,MI,FT,Data Engineer,206699,USD,US,0,,US,M,Data Engineering
+2022,MI,FT,Data Engineer,99100,USD,US,0,,US,M,Data Engineering
+2022,SE,FT,Data Engineer,130000,USD,US,100,,US,M,Data Engineering
+2022,SE,FT,Data Engineer,115000,USD,US,100,,US,M,Data Engineering
+2022,SE,FT,Data Engineer,110500,USD,US,100,Fully remote,US,M,Data Engineering
+2022,SE,FT,Data Engineer,130000,USD,US,100,Fully remote,US,M,Data Engineering
+2022,SE,FT,Data Analyst,99050,USD,US,100,Fully remote,US,M,Data Analyst
+2022,MI,FT,Data Engineer,60000,GBP,GB,100,Fully remote,UK,M,Data Engineering
+2022,MI,FT,Data Engineer,45000,GBP,GB,100,Fully remote,UK,M,Data Engineering
+2022,SE,FT,Data Scientist,260000,USD,US,100,Fully remote,US,M,Data Science
+2022,SE,FT,Data Science Engineer,60000,USD,AR,100,Fully remote,MX,L,Data Engineering
+2022,MI,FT,Data Engineer,63900,USD,US,0,On-site only,US,M,Data Engineering
+2022,MI,FT,Machine Learning Scientist,160000,USD,US,100,Fully remote,US,L,Machine Learning
