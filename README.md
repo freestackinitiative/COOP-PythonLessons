@@ -55,7 +55,7 @@ Each lesson is outlined below. For each one, we use Jupyter Notebooks to run our
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-**Slide Deck**: [Click here](https://docs.google.com/presentation/d/1rMA7wX07vFyc6XBrd8iTl6BEFfTsdm1Mo-8Lod4Easg/edit?usp=drive_link) to view the presentation for this lesson
+**Presentation**: [Click here](https://docs.google.com/presentation/d/1rMA7wX07vFyc6XBrd8iTl6BEFfTsdm1Mo-8Lod4Easg/edit?usp=drive_link) to view the presentation for this lesson
 
 To start things off, we introduce you to fundamental syntax and data structures in Python. After completing this lesson, you will know:
 - What objects are in Python and their three fundamental properties
@@ -72,7 +72,7 @@ To start things off, we introduce you to fundamental syntax and data structures 
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-**Slide Deck**: [Click here](https://docs.google.com/presentation/d/1lbbsTjzqm5Uzm7rsSSf_kXdUht13e2wg9QeVLLIwgIs/edit?usp=drive_link) to view the presentation for this lesson
+**Presentation**: [Click here](https://docs.google.com/presentation/d/1lbbsTjzqm5Uzm7rsSSf_kXdUht13e2wg9QeVLLIwgIs/edit?usp=drive_link) to view the presentation for this lesson
 
 Following up on our previous lesson, we introduce you to basic control flow concepts (if/else statements & loops) and functions. After completing this lesson, you will know:
 - How we can control the flow of our program's execution using basic control flow concepts
@@ -89,7 +89,7 @@ Following up on our previous lesson, we introduce you to basic control flow conc
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-**Slide Deck**: [Click here](https://docs.google.com/presentation/d/1UvhIfG0yuYpEKvOvQzH1DULn5N2_IZP_E-Bh3IRnzZ8/edit?usp=drive_link) to view the presentation for this lesson
+**Presentation**: [Click here](https://docs.google.com/presentation/d/1UvhIfG0yuYpEKvOvQzH1DULn5N2_IZP_E-Bh3IRnzZ8/edit?usp=drive_link) to view the presentation for this lesson
 
 After learning just enough basic Python, we introduce you to `pandas` - one of the most popular (and ubiquitous) Python libraries for working with data. We'll show you the basic methods you should know in order to explore and understand your data. Since a lot of the operations we perform here have parallels in SQL, we will show the connections between the two concepts where applicable. After completing this lesson, you will know:
 - What `DataFrames` are and how to use them to work with your data
@@ -105,7 +105,7 @@ After learning just enough basic Python, we introduce you to `pandas` - one of t
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-**Slide Deck**: [Click here](https://docs.google.com/presentation/d/1co_Af34Xyc0WmAYfXWAD478lNGpNzoiahPYuc-dT0iU/edit?usp=drive_link) to view the presentation for this lesson
+**Presentation**: [Click here](https://docs.google.com/presentation/d/1co_Af34Xyc0WmAYfXWAD478lNGpNzoiahPYuc-dT0iU/edit?usp=drive_link) to view the presentation for this lesson
 
 Part of working with data is creating visualizations to help us better understand it and communicate our findings. In this lesson, we introduce you to `matplotlib` - a popular library for creating visualizations with Python. After completing this lesson, you will know:
 - How to create basic graphs with `matplotlib`, such as histograms, line charts, bar charts, and pie charts
@@ -119,7 +119,7 @@ Part of working with data is creating visualizations to help us better understan
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-**Slide Deck**: [Click here](https://docs.google.com/presentation/d/11EOfWXflQD0w10yBW_sNrzOtTfigPPReWk5IhcbnEdM/edit?usp=drive_link) to view the presentation for this lesson
+**Presentation**: [Click here](https://docs.google.com/presentation/d/11EOfWXflQD0w10yBW_sNrzOtTfigPPReWk5IhcbnEdM/edit?usp=drive_link) to view the presentation for this lesson
 
 In this final lesson, we combine all of the concepts you have learned in the previous four lessons and guide you through an Exploratory Data Analysis using the Data Science Salaries data set. 
 
