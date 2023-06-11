@@ -1,4 +1,6 @@
-# Introduction to Python for Data Analysis
+<img src="https://tinyurl.com/k2t79s6t" style="width:50%; height:auto; max-height:500px;">
+
+# Introduction to Python for Data Analysis 
 
 Welcome to Introduction to Python for Data Analysis!  Over the course of these five lessons, we will guide you through the basics of Python and how to use it for data analysis. We start out by teaching you just enough Python fundamentals to get you familiar with syntax, basic data structures, and control flow. Then we take you through using two of the most popular data analytics libraries, `pandas` and `matplotlib`, to learn the basics of data cleaning, processing, and visualization using Python. In our final lesson, we combine everything you have learned so far into a mini-project where we guide you through performing Exploratory Data Analysis (EDA) using Python, `pandas`, `matplotlib`, and SQL.   
 
