@@ -117,7 +117,7 @@ Part of working with data is creating visualizations to help us better understan
 
 ---
 ### **Lesson 5 - A Guided Exploratory Data Analysis using Python and SQL**
-**Notebook**: <a href="https://colab.research.google.com/github/freestackinitiative/COOP-PythonLessons/blob/main/lessons/lesson5/Python%20105%20-%20Exploratory%20Data%20Analysis" target="_blank">
+**Notebook**: <a target="_blank" href="https://colab.research.google.com/github/freestackinitiative/COOP-PythonLessons/blob/main/lessons/lesson5/Python_105_Exploratory_Data_Analysis.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
